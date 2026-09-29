@@ -1,0 +1,6 @@
+{
+  "name": "Content Intelligence - AI Strategy & Hindsight Memory Agent",
+  "description": "Enterprise content intelligence platform powered by Hindsight persistent memory. Retain content history, recall performance signals, detect content gaps, and generate evidence-backed strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
